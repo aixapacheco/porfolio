@@ -1,3 +1,7 @@
+Si leíste los anterior capítulos deberías ya saber las bases para crear cualquier nota o documentación de forma rápida con algún que otro formato de estilos que te permita a simple vista y escritura darle forma al texto, pero a partir de este punto es donde nos introducimos en un campo de conocimientos más avanzados para quienes le agrada sumar mejores y nuevo estilos al texto.
+
+---
+
 # Encabezados y Texto
 
 ## Títulos y subtítulos

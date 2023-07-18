@@ -8,7 +8,7 @@ A continuación, quiero mostrarte cómo utilizar la sintaxis básica de Markdown
 
 Los encabezados se utilizan para resaltar títulos y subtítulos en tu documento. Puedes crear encabezados de diferentes niveles, desde h1 hasta h6, utilizando uno o varios símbolos de numeral (#) seguidos de un espacio y el texto del encabezado.
 
-``` markdown
+```markdown
 # Esto es un encabezado h1
 ## Esto es un encabezado h2
 ### Esto es un encabezado h3
@@ -25,7 +25,7 @@ Las listas te permiten organizar elementos en forma de lista numerada o lista de
 
 Para crear una lista ordenada, utiliza números seguidos de un punto y un espacio para cada elemento de la lista.
 
-``` markdown
+```markdown
 1. Elemento 1
 2. Elemento 2
 3. Elemento 3
@@ -35,19 +35,19 @@ Para crear una lista ordenada, utiliza números seguidos de un punto y un espaci
 
 Para crear una lista desordenada, utiliza guiones, asteriscos o signos de más seguidos de un espacio para cada elemento de la lista.
 
-``` markdown
+```markdown
 - Elemento 1
 - Elemento 2
 - Elemento 3
 ```
 
-``` markdown
+```markdown
 * Elemento 1
 * Elemento 2
 * Elemento 3
 ```
 
-``` markdown
+```markdown
 + Elemento 1
 + Elemento 2
 + Elemento 3
@@ -57,7 +57,7 @@ Para crear una lista desordenada, utiliza guiones, asteriscos o signos de más s
 
 Puedes anidar listas dentro de otras listas para crear una estructura jerárquica.
 
-``` markdown
+```markdown
 - Elemento 1
   - Subelemento 1.1
   - Subelemento 1.2
@@ -76,7 +76,7 @@ Puedes crear enlaces a páginas web o a secciones dentro del mismo documento.
 
 Para crear un enlace de texto, utiliza corchetes [] para el texto del enlace y paréntesis () para la URL o la ubicación a la que deseas que el enlace lleve.
 
-``` markdown
+```markdown
 [Visita nuestra página web](http://www.ejemplo.com)
 ```
 
@@ -84,7 +84,7 @@ Para crear un enlace de texto, utiliza corchetes [] para el texto del enlace y p
 
 Si deseas insertar una imagen en tu documento Markdown, utiliza la misma sintaxis que para los enlaces de texto, pero con un signo de exclamación (!) antes de los corchetes.
 
-``` markdown
+```markdown
 ![Texto alternativo de la imagen](http://www.ejemplo.com/imagen.jpg)
 ```
 
@@ -92,7 +92,7 @@ Si deseas insertar una imagen en tu documento Markdown, utiliza la misma sintaxi
 
 Si deseas crear un enlace que lleve a una sección específica dentro del mismo documento, primero debes crear un identificador para esa sección utilizando el símbolo de numeral (#) y el nombre de la sección.
 
-``` markdown
+```markdown
 [Salta al encabezado](#encabezado)
 ```
 
@@ -102,7 +102,7 @@ En este caso, el enlace llevará al encabezado con el identificador "encabezado"
 
 En distintos casos vamos a necesitar tomar apuntes en base a tablas por lo que lo se usan ( || ) y ( - ) para crearlas.
 
-``` markdown
+```markdown
 | Columna 1 | Columna 2 |
 |-----------|-----------|
 | Fila 1    |           |
@@ -115,20 +115,20 @@ Como ya vez en los puntos anteriores podemos mostrar como es que se escribe el c
 
 En cambio si lo hacemos usando (``) podemos evitar que se mezcle con el resto del texto en markdown
 
-``` markdown
+```markdown
 [ENLACE](enlace)
 ```
 
 Esto se puede lograr usando tres veces la tilde diagonal para marcar la entrada y tres tildes diagonales para marcar la salida.
 
-``` markdown
+```markdown
 
-*```php (AQUI SE PUEDEN USAR LOS TRES TILDES)
+\```php (AQUI SE PUEDEN USAR LOS TRES TILDES)
 
 <?php>
 
 <?>
-*``` (FINALIZANDO EL CODIGO)
+\``` (FINALIZANDO EL CODIGO)
 
 ```
 
