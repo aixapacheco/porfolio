@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "2606d2655d79f040",
+    "type": "split",
+    "children": [
+      {
+        "id": "32c3a10ad659f824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41efbff296389425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruta de estudio/01 - Markdown/01/TAREA/readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3580404f70b541a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d95b836a1a6598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a899643647da741",
+    "type": "split",
+    "children": [
+      {
+        "id": "e05e3eae49f18793",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb2f338ac8dd3c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96b3138266a18db3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d344d7d3a903e7e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a7f4cdd3fa7f051",
+    "type": "split",
+    "children": [
+      {
+        "id": "787a9b0aafb1a566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b184506395e5fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f3a5fcb178d457f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58587d4a995d330c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97c1461e97751bd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "32d95b836a1a6598",
+  "lastOpenFiles": [
+    "Ruta de estudio/01 - Markdown/01/TAREA/Ejercicios.md",
+    "Ruta de estudio/01 - Markdown/01/TAREA/readme.md",
+    "Ruta de estudio/PROYECTOS/Untitled.md",
+    "Ruta de estudio/01 - Markdown/03/03 - Listas.md",
+    "Ruta de estudio/01 - Markdown/02/02-01-Encabezados y texto.md",
+    "Ruta de estudio/01 - Markdown/02/TAREA/Ejercicios.md",
+    "Ruta de estudio/01 - Markdown/01/01-03-Sisntaxis básica de Markdown.md",
+    "Ruta de estudio/01 - Markdown/01/01-02-Ventajas de usar Markdown en Github.md",
+    "Ruta de estudio/01 - Markdown/01/01-01-Qué es markdown.md",
+    "Ruta de estudio/README.md",
+    "README.md"
+  ]
+}
