@@ -2,7 +2,13 @@
 
 Paa seguir el curso de programación y diseño web enfocado al Front-End vamos a ver las instrucciones que se deben seguir para poder actualizar las clases y la entregas de tareas.
 
+# Para clonar el respositorio
 
+> Para clonar el repositorio por primera y unica vez se utiliza
+
+```bash
+$ git clone https://github.com/aixapacheco/porfolio.git
+```
 
 # Usando Github
 
